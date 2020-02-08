@@ -8,27 +8,3 @@ configure :development do
 end
 
 require './app'
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
